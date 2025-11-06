@@ -5,6 +5,13 @@
     pip install -r requirements.txt
     python базовый.py
 
+# TERMUX
+    pkg install python git
+    git clone https://github.com/LIMAX-DEV/DISCORD-LIMAX.git
+    cd DISCORD-LIMAX
+    pip install -r requirements.txt
+    python базовый.py
+
 
 
 
