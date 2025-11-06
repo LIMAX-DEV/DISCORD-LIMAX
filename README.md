@@ -1,3 +1,13 @@
+# LINUX
+  
+
+
+
+
+
+
+
+
 # ⚠️ Aviso Legal e de Responsabilidade
 
 🚫 Isenção de Responsabilidade
