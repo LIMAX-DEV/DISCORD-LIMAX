@@ -3,12 +3,23 @@
 🚫 Isenção de Responsabilidade
 -Os desenvolvedores e mantenedores desta ferramenta NÃO SE RESPONSABILIZAM por:
 
--Uso inadequado da ferramenta por parte dos usuários
+- Uso inadequado da ferramenta por parte dos usuários
 
--Consequências legais decorrentes do uso deste software
+- Consequências legais decorrentes do uso deste software
 
--Violações dos Termos de Serviço do Discord
+- Violações dos Termos de Serviço do Discord
 
--Sanções aplicadas ao seu servidor ou conta pelo Discord
+- Sanções aplicadas ao seu servidor ou conta pelo Discord
 
--Danos materiais ou morais causados através do uso da ferramenta 
+- Danos materiais ou morais causados através do uso da ferramenta 
+
+# 📜 Responsabilidade do Usuário
+Ao utilizar esta ferramenta, você concorda que:
+
+- ✅ É totalmente responsável pelo uso do bot em seu servidor
+
+- ✅ Conhece e aceita os Termos de Serviço do Discord
+
+- ✅ Utilizará a ferramenta de forma ética e legal
+
+- ✅ Configurará as funcionalidades de acordo com as leis locais
