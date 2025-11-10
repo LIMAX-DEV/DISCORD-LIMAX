@@ -1,3 +1,10 @@
+![Descrição da imagem](foto/limax.jpeg)
+
+
+
+
+
+
 # LINUX
 
     git clone https://github.com/LIMAX-DEV/DISCORD-LIMAX.git
